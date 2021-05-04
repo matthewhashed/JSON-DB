@@ -1,6 +1,12 @@
 # JSON-DB:
 JSON-DB is a database that can be used to store values and retrieve values. It is almost completely written in [python](https://www.python.org/ "Official python website").
 
+<p align="center">
+  <a href="https://discord.gg/3M7xXTUKge">
+     <img src="https://img.shields.io/discord/795684220767961089?label=Discord">
+  </a>
+</p>
+
 ## How to use:
 Simply import `json-db.py` to your python code and then create a file named `db.json`.
 Then, you can use its functions to change values or retrieve values.
