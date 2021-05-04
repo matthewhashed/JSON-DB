@@ -7,11 +7,11 @@ Then, you can use its functions to change values or retrieve values.
 
 ## Functions:
 * `setValue(key, value)`
-This function creates and/or sets the value of a key.
+> This function creates and/or sets the value of a key.
 * `getValue(key)`
-Returns the value of a key.
+> Returns the value of a key.
 * `saveDatabase()`
-Saves all data to `db.json`.
+> Saves all data to `db.json`.
 
 Rules:
 * You may NOT copy and resell this. **|** i.e: Bob sold a copy of JSON-DB
