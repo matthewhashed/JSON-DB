@@ -11,6 +11,3 @@ def saveDatabase():
 def setValue(key, value):
   database[key] = value;
   saveDatabase()
-
-setValue('eee', 'ashdashjdhbasdhasdad')
-print(database['eee'])
